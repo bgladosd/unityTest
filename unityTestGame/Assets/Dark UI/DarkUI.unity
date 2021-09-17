@@ -2577,6 +2577,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 7692783165487035442, guid: e2541b822c0a4a5438b4f733059d8286, type: 3}
+      propertyPath: m_Text
+      value: 'sign tup
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7692783165487035442, guid: e2541b822c0a4a5438b4f733059d8286, type: 3}
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
